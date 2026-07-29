@@ -6,7 +6,9 @@
 
 - `pet.json`：Codex Pet v2 配置
 - `spritesheet.webp`：8×11 精灵图集，包含常规动作和 16 个视线方向
-- `runs/gua-laoban-v1/`：生成记录与 QA 证据
+- `runs/gua-laoban-v2-upgrade/qa/upgrade-summary.md`：本次升级摘要
+
+完整的生成原始素材、切帧文件和 QA 中间产物保留在本地 `runs/` 目录，不进入发布仓库。
 
 ## 使用
 
